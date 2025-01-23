@@ -17,7 +17,7 @@ To explore how video length, content type, and interactivity affect channel size
 |**agmvc-visualizations.ipynb**| Notebook for generating univariate and bivariate plots to explore channel statistics, video metrics, and relationships like video length vs. views and interactivity vs. comments.
 |**agmvc-DataAnalysis-LogisticRegressionModel.ipynb**| Notebook for data analysis and regression modeling, including word count analysis, linear regression, and logistic regression models with control variables, interaction terms, and categorical predictors 
 
-**pdfs & .csv files**
+**pdf & .csv files**
 
 |**File**| **Description** |
 |:-------:|:-------------------|
